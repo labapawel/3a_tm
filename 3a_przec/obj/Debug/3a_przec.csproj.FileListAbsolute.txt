@@ -8,3 +8,6 @@ C:\Users\DELL\source\repos\3a_przec\3a_przec\obj\Debug\3a_przec.csproj.CoreCompi
 C:\Users\DELL\source\repos\3a_przec\3a_przec\obj\Debug\3a_przec.exe
 C:\Users\DELL\source\repos\3a_przec\3a_przec\obj\Debug\3a_przec.pdb
 C:\Users\DELL\source\repos\3a_przec\3a_przec\obj\Debug\_3a_przec.Form1.resources
+C:\Users\DELL\source\repos\3a_przec\3a_przec\bin\Debug\Newtonsoft.Json.dll
+C:\Users\DELL\source\repos\3a_przec\3a_przec\bin\Debug\Newtonsoft.Json.xml
+C:\Users\DELL\source\repos\3a_przec\3a_przec\obj\Debug\3a_przec.csproj.CopyComplete
